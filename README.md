@@ -1,6 +1,6 @@
 Stock Market Analysis Web Application
 
-Developed a dynamic web application using VS Code, featuring three key sections: Chart, List, and Detail.
+Developed a dynamic web application, featuring three key sections: Chart, List, and Detail.
 Integrated Postman for API testing and employed JavaScript, HTML, and CSS for frontend development.
 Successfully met project acceptance criteria, creating an intuitive user interface for stock analysis.
 Implemented dynamic charting with adjustable time ranges and interactive buttons for user customization.
